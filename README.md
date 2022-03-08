@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4B Pertemuan 5
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [Fajar Athariq] - [2010631170068]
 - [Dela Amaliya] - 2010631170062
 - [Ardianto Nugroho] - [2010631170056]
 - Elvin Alan Pratama | 2010631170065
