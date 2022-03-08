@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4B Pertemuan 5
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [Irna Purnahasanah] - [2010631170014]
 - [Assyifa Khalif] - [2010631170058]
 - [Fajri Yanti] - [2010631170069]
 - [Cahya Diantoni] - [2010631170060]
