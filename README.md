@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4B Pertemuan 5
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [Fajri Yanti] - [2010631170069]
 - [Cahya Diantoni] - [2010631170060]
 - [Dellia Deltania] - [2010631170063]
 - [Iqbal Kurniawan] - [2010631170012]
