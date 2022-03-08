@@ -2,7 +2,7 @@
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
 - [Diki Candra Permana Yuda] - [2010631170064]
-- [Nama Lengkap] - [NPM]
+- [Annisa Rahma Putri] | [2010631170055]
 - [Bayu Wildan Bahari] - [2010631170059]
 - Fathimatuz Zahra - 2010631170009
 - [Dwi Putra Ardiansyah] - [2010631170142]
